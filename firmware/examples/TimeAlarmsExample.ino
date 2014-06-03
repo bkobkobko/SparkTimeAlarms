@@ -1,5 +1,3 @@
-// This #include statement was automatically added by the Spark IDE.
-#include "TimeAlarms.h"
 
 /*
  * TimeAlarmExample.pde
@@ -15,7 +13,7 @@
  */
  
 
-#include "TimeAlarms.h"
+//#include "TimeAlarms.h"
 
 void setup()
 {
