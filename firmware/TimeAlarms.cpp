@@ -351,3 +351,4 @@ AlarmID_t TimeAlarmsClass::alarmRepeat(time_t value, OnTick_t onTickHandler){ //
     // make one instance for the user to use
     TimeAlarmsClass Alarm = TimeAlarmsClass() ;
 
+#undef now()
